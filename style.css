@@ -5,11 +5,11 @@
 }
 
 :root {
-    --color1: #000000;
+    --color1: #00255c;
     --color2: #ffffff;
-    --color3: #d02561;
-    --color4: #04091a;
-    --color5: #707070;
+    --color3: #ceb31e;
+    --color4: #00255c;
+    --color5: #00255c;
 }
 
 body {
@@ -266,8 +266,8 @@ a .btn {
 
 /* Footer */
 footer {
-    background: var(--color1);
-    color: var(--color2);
+    background: var(--color2);
+    color: var(--color1);
     padding: 1rem 0;
 }
 
@@ -282,7 +282,7 @@ footer {
 }
 
 .footer__flex ul li a {
-    color: var(--color2);
+    color: var(--color1);
     text-decoration: none;
 }
 
