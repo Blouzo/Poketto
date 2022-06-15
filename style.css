@@ -115,6 +115,12 @@ a .btn {
     font-weight: 700;
 }
 
+.logo {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
+
 .hero .socials {
     position: absolute;
     top: 1rem;
