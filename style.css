@@ -100,6 +100,11 @@ a .btn {
     line-height: 1.5rem;
 }
 
+.logo {
+width: 141px;
+height: 46px;
+}
+
 .hero .logo {
     position: absolute;
     top: 1rem;
