@@ -106,19 +106,13 @@ a .btn {
     line-height: 1.5rem;
 }
 
-.hero {
+.hero .logo {
     position: absolute;
     top: 1rem;
     left: 1rem;
     color: var(--color2);
     font-size: 2rem;
     font-weight: 700;
-}
-
-.logo {
-    position: absolute;
-    top: 1rem;
-    left: 1rem;
 }
 
 .hero .socials {
