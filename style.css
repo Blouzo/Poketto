@@ -101,11 +101,15 @@ a .btn {
 }
 
 .logo {
-width: 141px;
-height: 46px;
+    width: 141px;
+    height: 46px;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    color: var(--color2);
 }
 
-.hero .logo {
+.hero {
     position: absolute;
     top: 1rem;
     left: 1rem;
