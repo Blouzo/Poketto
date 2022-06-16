@@ -100,16 +100,7 @@ a .btn {
     line-height: 1.5rem;
 }
 
-.logo {
-    width: 141px;
-    height: 46px;
-    position: absolute;
-    top: 1rem;
-    left: 1rem;
-    color: var(--color2);
-}
-
-.hero {
+.hero .logo {
     position: absolute;
     top: 1rem;
     left: 1rem;
